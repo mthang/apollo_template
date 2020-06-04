@@ -22,8 +22,8 @@ Modify/Update Apollo Landing page using command line
   - git commit -m "update index.html"
   - git push origin master
 * Note : register the user email and username in the current github directory is needed before push.
-        - git config --global user.email "your email address on github"
-        - git config --global user.name "your github username"
+  - git config --global user.email "your email address on github"
+  - git config --global user.name "your github username"
 
 
 Preview the updated index.html using the following link.
