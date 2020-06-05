@@ -30,3 +30,4 @@ Preview the updated index.html using the following link.
 * open a browser at your terminal
 * https://htmlpreview.github.io/
 * copy and paste the link of the updated index.html on github into the link above
+* Demo : https://htmlpreview.github.io/?https://raw.githubusercontent.com/mthang/apollo_template/master/index.html
